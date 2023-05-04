@@ -5441,12 +5441,15 @@ margin: 0 auto;
 margin-bottom: 0;
 text-align: left;
 padding: 28px;
-background-color: #e4e4e4;
+background-color: #f4f4f4;
 -webkit-border-radius: 3px;
 -moz-border-radius: 3px;
 -ms-border-radius: 3px;
 -o-border-radius: 3px;
 border-radius: 0px;
+  text-align: center;
+    justify-content: center;
+  padding-bottom: 55px;
 }
 .cta-wrapper .details-wrapper {
 float: left;
@@ -5472,7 +5475,7 @@ padding-top: 18px !important;
     padding-bottom: 18px !important;
     padding-right: 25px !important;
     padding-left: 25px !important;
-    font-size: 1.2rem !important;
+    font-size: 1.3rem !important;
     font-weight: var(--base-text-weight-medium, 500) !important;
     line-height: 20px !important;
     white-space: nowrap !important;
@@ -5493,6 +5496,24 @@ padding-top: 18px !important;
     border: 1px solid #dc3136 !important;
 }
 
+
+
+.maismdrlol {
+    font-size: 22px !important;
+    font-family: "Saoecom2fontlight" !important;
+    line-height: 1.3 !important;
+    letter-spacing: 0.01em !important;
+    color: #221F20 !important;
+    margin-bottom: 12px !important;
+    text-align: center !important;
+    margin-right: 3% !important;
+    margin-left: 10px !important;
+        margin-top: 5px !important;
+    padding-bottom: 35px !important;
+    padding-top: 0px !important;
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+}
 
 
 
